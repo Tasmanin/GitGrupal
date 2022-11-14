@@ -226,3 +226,4 @@ if __name__ == '__main__':
     print()
     print("Cadena recibida: ",mensaje)
     mostrar_menu()
+    print('Final del proyecto individual')
